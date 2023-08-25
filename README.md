@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmjs2023
-- 👀 I’m interested in web development and project managament
-- 🌱 I’m currently learning JavaScript, Ruby on Rails, Cloud
+- 👀 I’m interested in web development and project management
+- 🌱 I’m currently learning JavaScript, Ruby on Rails, Cloud.  Next step is learn React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
